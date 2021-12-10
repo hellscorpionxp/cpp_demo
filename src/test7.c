@@ -14,7 +14,7 @@ void copy_arr1(double tag1[], double src[], int num);
 void copy_arr2(double *tag2, double *src, int num);
 void copy_arr3(double tag3[], double src[], double *ptr);
 
-int main(void) {
+int main7(void) {
   int arr[] = { [5]=121 };
   int len = sizeof(arr) / sizeof(arr[0]);
   int i;
