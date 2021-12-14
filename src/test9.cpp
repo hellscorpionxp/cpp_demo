@@ -13,7 +13,7 @@ struct inflatable {
   double price;
 };
 
-int main() {
+int main9() {
   using namespace std;
 
   int carrots;
